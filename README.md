@@ -22,7 +22,7 @@ Server\plugins\SkyBlockGen.phar
 
 
 
-* [StockPE](#) - plugin installing link from stockpe !
+* [7Wstore](#) - plugin installing link from 7Wstore !
 
 
 #### Info
