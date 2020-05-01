@@ -28,6 +28,8 @@ Server\plugins\SkyBlockGen.phar
 #### Info
 plugin developed by : 7awariGamer[7Wdev] !
 
+the fastest sky block world generator !
+
 this plugin works with reducing lag system !
 
 this is a free plugin for all pmmp users !
