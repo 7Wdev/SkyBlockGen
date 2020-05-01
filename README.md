@@ -16,7 +16,7 @@ Server\plugins\SkyBlockGen.phar
 ```
 3-enjoy !
 
-/sbcreate
+/sb gen <name>
 
 
 
