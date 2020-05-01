@@ -16,7 +16,7 @@ Server\plugins\SkyBlockGen.phar
 ```
 3-enjoy !
 
-/sb gen (name)
+/sb gen (name) - generates the world randomlywi th the name that you typed !
 
 
 
