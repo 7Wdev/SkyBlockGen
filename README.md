@@ -1,2 +1,35 @@
+
+
 # SkyBlockGen
-pmmp plugin, the fastest and softest skyblock world generator! 
+## ! WELCOME FROM 7WDEV(7Wstore owner) !
+
+#### How To Use?
+1-just install the plugin from 7Wstore (also if you want you can install it from github) !
+
+2-put this plugin in the plugins folder :
+```
+Server\plugins\SkyBlockGen.phar
+                      |
+                     \ /
+              this is the plugin
+              _________________
+```
+3-enjoy !
+
+/sbcreate
+
+
+
+
+
+* [StockPE](#) - plugin installing link from stockpe !
+
+
+#### Info
+plugin developed by : 7awariGamer[7Wdev] !
+
+this plugin works with reducing lag system !
+
+this is a free plugin for all pmmp users !
+
+it is working with 3.0.0 api !
