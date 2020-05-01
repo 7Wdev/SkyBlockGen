@@ -1,0 +1,19 @@
+
+name: SkyBlockGen
+main: StockPE\MCBE\GenCommand
+version: mr.panda
+api: [3.0.0]
+author: 7awariGamer(7Wdev)   #this plugin developed by StockPE owner!
+                             #this plugin forked from my mind!
+                             #have fun with generating skyblock worlds without hearting your server performance!
+description: A simple and Smart SkyBlock world generator for pmmp!
+
+commands:
+  sb gen:
+    description: generate a sb world!
+    usage: "/sb gen"
+    permission: stockpe.command.sb.gen
+permissions:
+  stockpe.command.sb.gen:
+    description: "/sb gen <name>"
+    default: true
